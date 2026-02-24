@@ -2,7 +2,9 @@
 
 A modern desktop thin client for [rTorrent](https://github.com/rakshasa/rtorrent). Connects to your rTorrent instance over SSH, TCP/SCGI, or HTTP and provides a full-featured GUI for managing torrents.
 
-<!-- ![Screenshot](screenshot.png) -->
+![Main view](screenshots/main.png)
+
+![Files tab](screenshots/files.png)
 
 ## Download
 
