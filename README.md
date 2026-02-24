@@ -2,6 +2,8 @@
 
 A modern desktop thin client for [rTorrent](https://github.com/rakshasa/rtorrent). Connects to your rTorrent instance over SSH, TCP/SCGI, or HTTP and provides a full-featured GUI for managing torrents.
 
+If you find Ctrl+R useful, [buy me a coffee](https://ko-fi.com/mikesilvo) ☕
+
 ![Main view](screenshots/main.png)
 
 ![Files tab](screenshots/files.png)
@@ -13,8 +15,7 @@ A modern desktop thin client for [rTorrent](https://github.com/rakshasa/rtorrent
 | Platform | Installer |
 |----------|-----------|
 | Windows (x64) | `.exe` (NSIS) |
-| macOS (Apple Silicon) | `.dmg` |
-| macOS (Intel) | `.dmg` |
+| macOS (Apple Silicon / Intel via Rosetta) | `.dmg` |
 | Linux (x64) | `.deb` / `.AppImage` |
 
 ## Installation
