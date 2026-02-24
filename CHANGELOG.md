@@ -4,6 +4,10 @@
 
 Initial public release.
 
+### Fixed
+- App icon blurry on Windows (`.ico` was missing higher-resolution layers)
+- Release artifacts now have platform-friendly filenames
+
 ### Added
 - Full torrent management: add (magnet/file/URL), pause, resume, remove, recheck, reannounce
 - Detail panel with General, Files (folder tree), Peers, Trackers, and Speed Graph tabs
