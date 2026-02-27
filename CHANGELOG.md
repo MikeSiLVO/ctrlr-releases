@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.1] - 2026-02-27
+
+### Fixed
+- Minor internal cleanup (lock scoping, error handling)
+
 ## [1.0.0] - 2026-02-24
 
 Initial public release.
